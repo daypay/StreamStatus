@@ -1,0 +1,13 @@
+{
+    "name": "twitch-stream-bot",
+    "version": "1.0.0",
+    "description": "Get console user names",
+    "main": "streambot.js",
+    "author": "DayPay Gaming",
+    "dependencies": {
+        "better-sqlite3": "^5.0.1",
+        "discord.js": "^11.4.2",
+        "node-gyp": "^3.8.0",
+        "winston": "^3.2.1"
+    }
+}
